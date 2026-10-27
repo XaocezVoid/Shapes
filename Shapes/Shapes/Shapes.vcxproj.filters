@@ -13,10 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Curves cpp">
+      <UniqueIdentifier>{62617afe-dc1c-4421-a963-1de80d75c10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Curves h">
+      <UniqueIdentifier>{e1e6084d-8aa2-40ba-b4a7-00c955073868}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vector3D">
+      <UniqueIdentifier>{91d50617-5eba-45b6-8945-921ee5a73314}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Curve.cpp">
+      <Filter>Curves cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Vector3D</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Curve.h">
+      <Filter>Curves h</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>Vector3D</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
