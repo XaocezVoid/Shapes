@@ -1,9 +1,8 @@
-#pragma once
-#include <vector>;
+﻿#pragma once
 struct Vector3D
 {
-	std::vector<double> x;
-	std::vector<double> y;
-	std::vector<double> z;
+	double x;
+	double y;
+	double z;
 };
 

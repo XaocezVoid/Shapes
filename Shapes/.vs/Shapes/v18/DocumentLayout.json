@@ -29,6 +29,10 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Vector3D.cpp",
@@ -38,12 +42,7 @@
               "RelativeToolTip": "Shapes\\Vector3D.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-27T06:50:33.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-10-27T06:50:33.376Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Shapes\\Vector3D.h",
               "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.h",
               "RelativeToolTip": "Shapes\\Vector3D.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-27T06:49:55.959Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Shapes\\Curve.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-27T06:46:39.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T06:46:39.057Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Shapes\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-27T06:45:13.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T06:45:13.006Z"
             }
           ]
         }
