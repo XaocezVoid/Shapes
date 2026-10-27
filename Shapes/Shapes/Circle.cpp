@@ -6,7 +6,7 @@ namespace Curves {
 
 	Vector3D Circle::GetPoint(double t)
 	{
-
+		Vector3D point;
 		point.x = radius * cos(t);
 		point.y = radius * sin(t);
 		point.z = 0.0;
@@ -16,6 +16,7 @@ namespace Curves {
 
 	Vector3D Circle::GetDerivative(double t)
 	{
+		Vector3D Derivative;
 		Derivative.x = -radius * cos(t);
 		Derivative.y = radius * sin(t);
 		Derivative.z = 0.0;

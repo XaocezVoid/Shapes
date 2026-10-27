@@ -122,7 +122,10 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\ctype.h",
             "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.52.37025\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
-            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.52.37025\\include\\ostream"
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.52.37025\\include\\ostream",
+            "c:\\users\\студент\\documents\\ильяс\\shapes\\shapes\\shapes\\circle.h",
+            "c:\\users\\студент\\documents\\ильяс\\shapes\\shapes\\shapes\\curve.h",
+            "c:\\users\\студент\\documents\\ильяс\\shapes\\shapes\\shapes\\vector3d.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
