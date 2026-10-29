@@ -32,6 +32,9 @@
     <ClCompile Include="Circle.cpp">
       <Filter>Curves cpp</Filter>
     </ClCompile>
+    <ClCompile Include="Ellipse.cpp">
+      <Filter>Curves cpp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Curve.h">
@@ -41,6 +44,9 @@
       <Filter>Vector3D</Filter>
     </ClInclude>
     <ClInclude Include="Circle.h">
+      <Filter>Curves h</Filter>
+    </ClInclude>
+    <ClInclude Include="Ellipse.h">
       <Filter>Curves h</Filter>
     </ClInclude>
   </ItemGroup>

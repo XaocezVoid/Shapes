@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\",
+  "WorkspaceRootPath": "E:\\project\\Shapes\\Shapes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Ellipse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Ellipse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Curve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|E:\\project\\Shapes\\Shapes\\Shapes\\Curve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C1C46E-1D0F-49BA-9B46-FA42ABEF984D}|Shapes\\Shapes.vcxproj|solutionrelative:Shapes\\Curve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +46,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Ellipse.cpp",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.cpp",
+              "RelativeDocumentMoniker": "Shapes\\Ellipse.cpp",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.cpp*",
+              "RelativeToolTip": "Shapes\\Ellipse.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T05:15:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ellipse.h",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.h",
+              "RelativeDocumentMoniker": "Shapes\\Ellipse.h",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Ellipse.h",
+              "RelativeToolTip": "Shapes\\Ellipse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-29T05:15:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Circle.h",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.h",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Circle.h",
               "RelativeDocumentMoniker": "Shapes\\Circle.h",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.h",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Circle.h",
               "RelativeToolTip": "Shapes\\Circle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -55,11 +101,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Curve.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.cpp",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Curve.cpp",
               "RelativeDocumentMoniker": "Shapes\\Curve.cpp",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.cpp",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Curve.cpp",
               "RelativeToolTip": "Shapes\\Curve.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -70,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Circle.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.cpp",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Circle.cpp",
               "RelativeDocumentMoniker": "Shapes\\Circle.cpp",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Circle.cpp",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Circle.cpp",
               "RelativeToolTip": "Shapes\\Circle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -80,16 +126,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Vector3D.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.cpp",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.cpp",
               "RelativeDocumentMoniker": "Shapes\\Vector3D.cpp",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.cpp",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.cpp",
               "RelativeToolTip": "Shapes\\Vector3D.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -98,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Vector3D.h",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.h",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.h",
               "RelativeDocumentMoniker": "Shapes\\Vector3D.h",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Vector3D.h",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Vector3D.h",
               "RelativeToolTip": "Shapes\\Vector3D.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -111,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Curve.h",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.h",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\Curve.h",
               "RelativeDocumentMoniker": "Shapes\\Curve.h",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\Curve.h",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\Curve.h",
               "RelativeToolTip": "Shapes\\Curve.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -126,11 +168,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\main.cpp",
+              "DocumentMoniker": "E:\\project\\Shapes\\Shapes\\Shapes\\main.cpp",
               "RelativeDocumentMoniker": "Shapes\\main.cpp",
-              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Documents\\\u0418\u043B\u044C\u044F\u0421\\Shapes\\Shapes\\Shapes\\main.cpp",
-              "RelativeToolTip": "Shapes\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\project\\Shapes\\Shapes\\Shapes\\main.cpp*",
+              "RelativeToolTip": "Shapes\\main.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-27T06:45:13.006Z",
               "EditorCaption": ""
