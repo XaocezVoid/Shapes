@@ -1,4 +1,7 @@
-﻿  Ellipse.cpp
+﻿  Circle.cpp
+  Curve.cpp
+  Ellipse.cpp
+  Spiral.cpp
   main.cpp
   Создание кода...
-  Shapes.vcxproj -> E:\project\Shapes\Shapes\x64\Debug\Shapes.exe
+  Shapes.vcxproj -> C:\Users\erorr\Shapes\Shapes\x64\Debug\Shapes.exe
