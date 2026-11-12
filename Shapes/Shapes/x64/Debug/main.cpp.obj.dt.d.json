@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\erorr\\shapes\\shapes\\shapes\\main.cpp",
+        "Source": "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\main.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -123,11 +123,19 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
-            "c:\\users\\erorr\\shapes\\shapes\\shapes\\circle.h",
-            "c:\\users\\erorr\\shapes\\shapes\\shapes\\curve.h",
-            "c:\\users\\erorr\\shapes\\shapes\\shapes\\vector3d.h",
-            "c:\\users\\erorr\\shapes\\shapes\\shapes\\ellipse.h",
-            "c:\\users\\erorr\\shapes\\shapes\\shapes\\spiral.h"
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\circle.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\curve.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\vector3d.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\ellipse.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\spiral.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\random",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_int128.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\algorithm",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_heap_algorithms.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_minmax.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\xbit_ops.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
