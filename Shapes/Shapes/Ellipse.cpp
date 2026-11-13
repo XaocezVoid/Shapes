@@ -1,4 +1,4 @@
-#include "Ellipse.h"
+﻿#include "Ellipse.h"
 namespace Curves {
     Ellipse::Ellipse(double rx, double ry) : radiusX{ rx }, radiusY{ ry } {};
     Vector3D Ellipse::GetPoint(double t)
@@ -16,5 +16,13 @@ namespace Curves {
         Derivative.y = radiusY * cos(t);
         Derivative.z = 0.0;
         return Derivative;
+    }
+    double Ellipse::GetRadiusX()
+    {
+        return radiusX;
+    }
+    double Ellipse::GetRadiusY()
+    {
+        return radiusY;
     }
 }

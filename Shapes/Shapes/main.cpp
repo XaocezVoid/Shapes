@@ -49,6 +49,11 @@ int main()
 
 	std::vector<Circle*> circles = Curves::GetCircle(curves);
 
+	/*
+	6. Вычислите общую сумму радиусов всех кривых во втором контейнере.
+	*/
+
+	std::cout << Curves::GetCirclesSumRad(circles) << "\n";
 
 	return 0;
 }

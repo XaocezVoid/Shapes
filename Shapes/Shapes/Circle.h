@@ -11,6 +11,7 @@ namespace Curves {
         Circle(double r);
         Vector3D GetPoint(double t) override;
         Vector3D GetDerivative(double t) override;
+        double GetRadius();
     };
 }
 

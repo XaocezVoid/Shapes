@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "Curve.h"
 
 namespace Curves {
@@ -10,5 +10,7 @@ namespace Curves {
         Spiral(double r, double p);
         Vector3D GetPoint(double t) override;
         Vector3D GetDerivative(double t) override;
+        double GetRadius();
+        double GetPitch();
     };
 }

@@ -13,5 +13,5 @@ namespace Curves {
 	};
 
 	std::vector<Circle*> GetCircle(const std::vector<Curve*>& curves);
+	double GetCirclesSumRad(const std::vector<Circle*>& circles);
 }
-

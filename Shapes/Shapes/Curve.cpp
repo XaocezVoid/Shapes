@@ -21,5 +21,14 @@ namespace Curves {
 
 		return circles;
 	}
+	double GetCirclesSumRad(const std::vector<Circle*>& circles)
+	{
+		double sumRad = 0;
+		for (auto circle : circles)
+		{
+			sumRad += circle->GetRadius();
+		}
+		return sumRad;
+	}
 }
 
