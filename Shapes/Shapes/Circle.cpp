@@ -23,4 +23,9 @@ namespace Curves {
 		return Derivative;
 	}
 
+	double Circle::GetRadius()
+	{
+		return radius;
+	}
+
 }
