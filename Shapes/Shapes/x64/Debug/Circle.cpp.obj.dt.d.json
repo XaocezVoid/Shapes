@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\circle.cpp",
+        "Source": "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\circle.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\circle.h",
-            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\curve.h",
-            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\vector3d.h",
+            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\circle.h",
+            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\curve.h",
+            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\vector3d.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\cmath",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",

@@ -10,8 +10,12 @@ namespace Curves {
 	public:
 		virtual Vector3D GetPoint(double t) = 0;
 		virtual Vector3D GetDerivative(double t) = 0;
+		virtual ~Curve() = default;
 	};
 
 	std::vector<Circle*> GetCircle(const std::vector<Curve*>& curves);
 	double GetCirclesSumRad(const std::vector<Circle*>& circles);
+
+	void PrintPointsAndDerivatives(const std::vector<Curve*>& curves, double t);
+	void SortCirclesByRadius(std::vector<Circle*>& circles);
 }

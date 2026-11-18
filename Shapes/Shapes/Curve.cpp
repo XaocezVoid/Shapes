@@ -1,6 +1,8 @@
 ﻿#include "Curve.h"
 #include "Circle.h"
 #include<typeinfo>
+#include<iostream>
+#include <algorithm>
 
 using Curves::Circle;
 namespace Curves {
@@ -29,6 +31,25 @@ namespace Curves {
 			sumRad += circle->GetRadius();
 		}
 		return sumRad;
+	}
+	void PrintPointsAndDerivatives(const std::vector<Curve*>& curves, double t)
+	{
+		std::cout  << t << "\n";
+		for (Curve* curve : curves)
+		{
+			Vector3D point = curve->GetPoint(t);
+			Vector3D deriv = curve->GetDerivative(t);
+
+			std::cout << typeid(*curve).name() << "\n";
+			std::cout << "(" << point.x << ", " << point.y << ", " << point.z << ")\n";
+			std::cout << "(" << deriv.x << ", " << deriv.y << ", " << deriv.z << ")\n";
+		}
+	}
+	void SortCirclesByRadius(std::vector<Circle*>& circles)
+	{
+		std::sort(circles.begin(), circles.end(), [](Circle* a, Circle* b) {
+			return a->GetRadius() < b->GetRadius();
+			});
 	}
 }
 

@@ -53,7 +53,26 @@ int main()
 	6. Вычислите общую сумму радиусов всех кривых во втором контейнере.
 	*/
 
+
 	std::cout << Curves::GetCirclesSumRad(circles) << "\n";
+
+	
+
+	//3 Выведите координаты точек и производные всех кривых в контейнере при t=PI/4.
+	const double PI = 3.1415926;
+	double t = PI / 4.0;
+	Curves::PrintPointsAndDerivatives(curves, t);
+
+	//5 Отсортируйте второй контейнер по возрастанию радиусов окружностей. То есть первый элемент будет иметь наименьший радиус, а последний — наибольший.
+
+	Curves::SortCirclesByRadius(circles);
+
+	for (Circle* c : circles) {
+		std::cout << c->GetRadius() << "\n";
+	}
+
+	std::cout << Curves::GetCirclesSumRad(circles) << "\n";
+
 
 	return 0;
 }

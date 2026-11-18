@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\project\\shapes\\shapes\\shapes\\vector3d.cpp",
+        "Source": "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\vector3d.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "e:\\project\\shapes\\shapes\\shapes\\vector3d.h"
+            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\vector3d.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
