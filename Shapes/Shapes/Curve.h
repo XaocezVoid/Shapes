@@ -3,9 +3,17 @@
 #include <cmath>
 #include <vector>
 
+#ifdef SHAPES_EXPORTS
+#define SHAPES_API __declspec(dllexport)
+#else
+#define SHAPES_API __declspec(dllimport)
+#endif
+
 namespace Curves {
 	class Circle;
-	class Curve
+
+
+	class SHAPES_API Curve
 	{
 	public:
 		virtual Vector3D GetPoint(double t) = 0;
@@ -13,9 +21,9 @@ namespace Curves {
 		virtual ~Curve() = default;
 	};
 
-	std::vector<Circle*> GetCircle(const std::vector<Curve*>& curves);
-	double GetCirclesSumRad(const std::vector<Circle*>& circles);
+	SHAPES_API std::vector<Circle*> GetCircle(const std::vector<Curve*>& curves);
+	SHAPES_API double GetCirclesSumRad(const std::vector<Circle*>& circles);
 
-	void PrintPointsAndDerivatives(const std::vector<Curve*>& curves, double t);
-	void SortCirclesByRadius(std::vector<Circle*>& circles);
+	SHAPES_API void PrintPointsAndDerivatives(const std::vector<Curve*>& curves, double t);
+	SHAPES_API void SortCirclesByRadius(std::vector<Circle*>& circles);
 }

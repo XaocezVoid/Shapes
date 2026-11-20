@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "Curve.h"
 namespace Curves {
-    class Ellipse :
+    class SHAPES_API Ellipse :
         public Curve
     {
     protected:

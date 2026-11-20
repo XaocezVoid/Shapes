@@ -2,7 +2,7 @@
 #include "Curve.h"
 
 namespace Curves {
-    class Spiral : public Curve {
+    class SHAPES_API Spiral : public Curve {
     private:
         double radius;
         double pitch;
