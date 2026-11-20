@@ -1,4 +1,8 @@
-﻿  Curve.cpp
-  main.cpp
+﻿  Circle.cpp
+  Curve.cpp
+  Ellipse.cpp
+  Spiral.cpp
+  Vector3D.cpp
   Создание кода...
-  Shapes.vcxproj -> C:\Users\jack1\source\repos\Shapes\Shapes\x64\Debug\Shapes.exe
+     Создается библиотека C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.lib и объект C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.exp
+  Shapes.vcxproj -> C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.dll
