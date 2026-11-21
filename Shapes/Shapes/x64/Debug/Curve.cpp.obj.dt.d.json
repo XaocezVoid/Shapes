@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\curve.cpp",
+        "Source": "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\curve.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\curve.h",
-            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\vector3d.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\curve.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\vector3d.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\cmath",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
@@ -91,7 +91,9 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\cstring",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\string.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_memory.h",
-            "c:\\users\\jack1\\source\\repos\\shapes\\shapes\\shapes\\circle.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\circle.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\spiral.h",
+            "d:\\documents\\project\\shapes\\shapes\\shapes\\shapes\\ellipse.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\typeinfo",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime_typeinfo.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -131,7 +133,9 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\algorithm",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_heap_algorithms.hpp",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_int128.hpp",
-            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_minmax.hpp"
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_minmax.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\random",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\xbit_ops.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

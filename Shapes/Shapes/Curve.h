@@ -26,4 +26,5 @@ namespace Curves {
 
 	SHAPES_API void PrintPointsAndDerivatives(const std::vector<Curve*>& curves, double t);
 	SHAPES_API void SortCirclesByRadius(std::vector<Circle*>& circles);
+	SHAPES_API std::vector<Curve*> __cdecl CreateVectorCurves(std::vector<Curve*>& curves, int countElement);
 }
