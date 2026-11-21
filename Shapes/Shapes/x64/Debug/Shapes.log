@@ -2,7 +2,6 @@
   Curve.cpp
   Ellipse.cpp
   Spiral.cpp
-  Vector3D.cpp
   Создание кода...
-     Создается библиотека C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.lib и объект C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.exp
-  Shapes.vcxproj -> C:\Users\erorr\source\repos\Shapes\Shapes\x64\Debug\Shapes.dll
+     Создается библиотека D:\Documents\project\Shapes\Shapes\Shapes\x64\Debug\Shapes.lib и объект D:\Documents\project\Shapes\Shapes\Shapes\x64\Debug\Shapes.exp
+  Shapes.vcxproj -> D:\Documents\project\Shapes\Shapes\Shapes\x64\Debug\Shapes.dll
